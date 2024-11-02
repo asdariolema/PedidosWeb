@@ -1,0 +1,1120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Dario\Desktop\publicacion</_PublishTargetUrl>
+    <History>True|2024-09-07T14:37:15.3487637Z;True|2024-09-07T11:35:59.3498093-03:00;True|2024-09-07T11:31:17.6988108-03:00;True|2024-09-05T15:07:03.3224381-03:00;False|2024-09-05T15:05:43.1420405-03:00;True|2024-08-02T20:16:23.9152655-03:00;True|2024-08-02T15:51:20.4896837-03:00;True|2024-08-02T15:48:40.3396827-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="AltaPedidos.aspx">
+      <publishTime>08/25/2024 22:49:47</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>10/09/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>10/09/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>06/27/2014 10:56:46</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>05/16/2019 12:33:30</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>09/07/2024 11:31:17</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>09/07/2024 11:31:17</publishTime>
+    </File>
+    <File Include="bin/DommarcoWeb.dll">
+      <publishTime>09/07/2024 11:37:14</publishTime>
+    </File>
+    <File Include="bin/DommarcoWeb.pdb">
+      <publishTime>09/07/2024 11:37:14</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Optimization.resources.dll">
+      <publishTime>11/02/2014 15:28:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>11/02/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/09/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>06/09/2013 11:20:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>06/09/2013 11:20:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/12/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/12/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>05/11/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/11/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/11/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>05/11/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/11/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/11/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>05/11/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>05/11/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>05/11/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>05/11/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>05/11/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/11/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/11/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/11/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/11/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/11/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>05/11/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/11/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/11/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/11/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/11/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/11/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>11/02/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/23/2014 13:57:34</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/css/bootstrap-theme.css">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/css/bootstrap-theme.css.map">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/css/bootstrap.css">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/css/bootstrap.css.map">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/css/bootstrap.min.css">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/css/_notes/dwsync.xml">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/js/bootstrap.js">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="bootstrap-3.2.0-dist/js/bootstrap.min.js">
+      <publishTime>08/16/2023 15:54:54</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="CotizacionBusqueda.aspx">
+      <publishTime>07/31/2024 20:59:58</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="ejemplo.aspx">
+      <publishTime>03/08/2024 21:16:42</publishTime>
+    </File>
+    <File Include="Estilos/styles.css">
+      <publishTime>07/30/2024 16:24:18</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="images/fondo.jpg">
+      <publishTime>08/04/2024 21:48:50</publishTime>
+    </File>
+    <File Include="images/logo-Dommarco.png">
+      <publishTime>08/02/2024 21:23:38</publishTime>
+    </File>
+    <File Include="images/logo.jpg">
+      <publishTime>08/02/2024 21:20:40</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>04/08/2024 22:05:46</publishTime>
+    </File>
+    <File Include="Menu.aspx">
+      <publishTime>04/08/2024 22:14:32</publishTime>
+    </File>
+    <File Include="packages/Antlr.3.5.0.2/.signature.p7s">
+      <publishTime>10/14/2018 21:05:56</publishTime>
+    </File>
+    <File Include="packages/Antlr.3.5.0.2/Antlr.3.5.0.2.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.dll">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.pdb">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.bootstrap.3.2.0/.signature.p7s">
+      <publishTime>10/20/2018 04:02:24</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.bootstrap.3.2.0/AspNet.ScriptManager.bootstrap.3.2.0.nupkg">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.bootstrap.3.2.0/lib/net40/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>06/27/2014 10:56:46</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.bootstrap.3.2.0/lib/net45/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>06/27/2014 10:56:46</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.jQuery.3.4.1/.signature.p7s">
+      <publishTime>05/20/2019 11:04:14</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.jQuery.3.4.1/AspNet.ScriptManager.jQuery.3.4.1.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.jQuery.3.4.1/lib/net40/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>05/16/2019 12:33:30</publishTime>
+    </File>
+    <File Include="packages/AspNet.ScriptManager.jQuery.3.4.1/lib/net45/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>05/16/2019 12:33:30</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/.signature.p7s">
+      <publishTime>10/14/2018 21:44:44</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/bootstrap.3.2.0.nupkg">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Content/bootstrap-theme.css">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Content/bootstrap-theme.css.map">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Content/bootstrap-theme.min.css">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Content/bootstrap.css">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Content/bootstrap.css.map">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Content/bootstrap.min.css">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Scripts/bootstrap.js">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/bootstrap.3.2.0/content/Scripts/bootstrap.min.js">
+      <publishTime>06/27/2014 10:54:56</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/.signature.p7s">
+      <publishTime>05/02/2019 11:18:12</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.js">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.min.js">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.min.map">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.js">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.min.js">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.min.map">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/jQuery.3.4.1.nupkg">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Tools/common.ps1">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Tools/install.ps1">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/jQuery.3.4.1/Tools/uninstall.ps1">
+      <publishTime>05/02/2019 11:15:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/.signature.p7s">
+      <publishTime>10/07/2018 17:39:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Content/App_Start/RouteConfig.cs.pp">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Content/Site.Mobile.Master.cs.pp">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Content/Site.Mobile.Master.designer.cs.pp">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Content/Site.Mobile.Master.pp">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Content/ViewSwitcher.ascx.cs.pp">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Content/ViewSwitcher.ascx.designer.cs.pp">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Content/ViewSwitcher.ascx.pp">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/Microsoft.AspNet.FriendlyUrls.1.0.2.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.1.0.2/readme.txt">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/.signature.p7s">
+      <publishTime>10/07/2018 07:19:58</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/lib/net40/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/lib/net40/es/Microsoft.AspNet.FriendlyUrls.xml">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/lib/net40/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/lib/net45/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/lib/net45/es/Microsoft.AspNet.FriendlyUrls.xml">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/lib/net45/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/lib/net45/Microsoft.AspNet.FriendlyUrls.xml">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/Microsoft.AspNet.FriendlyUrls.Core.1.0.2.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2/.signature.p7s">
+      <publishTime>10/12/2018 05:33:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2/lib/net40/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2/lib/net40/es/Microsoft.AspNet.FriendlyUrls.xml">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2/lib/net45/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2/lib/net45/es/Microsoft.AspNet.FriendlyUrls.xml">
+      <publishTime>07/30/2013 17:01:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2.nupkg">
+      <publishTime>07/26/2024 19:36:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/.signature.p7s">
+      <publishTime>10/07/2018 11:14:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/content/Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/lib/net45/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>09/06/2013 11:20:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/.signature.p7s">
+      <publishTime>10/07/2018 11:08:10</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/DetailsView.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/Focus.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/GridView.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/Menu.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/MenuStandards.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/SmartNav.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/TreeView.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/WebForms.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/WebParts.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/content/Scripts/WebForms/WebUIValidation.js">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/lib/net45/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>09/06/2013 11:20:22</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/Microsoft.AspNet.ScriptManager.WebForms.5.0.0.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.1.1.3/.signature.p7s">
+      <publishTime>12/17/2018 15:17:00</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/es/System.Web.Optimization.resources.dll">
+      <publishTime>02/11/2014 15:28:40</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.es.1.1.3/.signature.p7s">
+      <publishTime>10/10/2018 22:18:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.es.1.1.3/lib/net40/es/System.Web.Optimization.resources.dll">
+      <publishTime>02/11/2014 15:28:40</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.es.1.1.3/Microsoft.AspNet.Web.Optimization.es.1.1.3.nupkg">
+      <publishTime>07/26/2024 19:36:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.WebForms.1.1.3/.signature.p7s">
+      <publishTime>10/07/2018 06:35:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.WebForms.1.1.3/content/web.config.transform">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.WebForms.1.1.3/lib/net45/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.AspNet.Web.Optimization.WebForms.1.1.3/Microsoft.AspNet.Web.Optimization.WebForms.1.1.3.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/.signature.p7s">
+      <publishTime>12/17/2018 16:01:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props">
+      <publishTime>09/05/2018 16:04:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props">
+      <publishTime>09/05/2018 16:04:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props">
+      <publishTime>09/05/2018 16:04:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props">
+      <publishTime>09/05/2018 16:04:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/app.config.install.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/app.config.uninstall.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/web.config.install.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/web.config.uninstall.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/app.config.install.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/app.config.uninstall.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/web.config.install.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/web.config.uninstall.xdt">
+      <publishTime>09/05/2018 16:04:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg">
+      <publishTime>07/26/2024 19:36:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/net45/install.ps1">
+      <publishTime>09/05/2018 16:15:16</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/net45/uninstall.ps1">
+      <publishTime>09/05/2018 16:13:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.AppContext.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="packages/Microsoft.Web.Infrastructure.1.0.0.0/.signature.p7s">
+      <publishTime>12/13/2018 18:30:10</publishTime>
+    </File>
+    <File Include="packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="packages/Modernizr.2.8.3/.signature.p7s">
+      <publishTime>10/14/2018 21:04:42</publishTime>
+    </File>
+    <File Include="packages/Modernizr.2.8.3/Content/Scripts/modernizr-2.8.3.js">
+      <publishTime>08/19/2014 21:50:30</publishTime>
+    </File>
+    <File Include="packages/Modernizr.2.8.3/Modernizr.2.8.3.nupkg">
+      <publishTime>07/26/2024 19:36:48</publishTime>
+    </File>
+    <File Include="packages/Modernizr.2.8.3/Tools/common.ps1">
+      <publishTime>08/19/2014 21:50:30</publishTime>
+    </File>
+    <File Include="packages/Modernizr.2.8.3/Tools/install.ps1">
+      <publishTime>08/19/2014 21:50:30</publishTime>
+    </File>
+    <File Include="packages/Modernizr.2.8.3/Tools/uninstall.ps1">
+      <publishTime>08/19/2014 21:50:30</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/.signature.p7s">
+      <publishTime>04/21/2019 18:23:10</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:36</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:26</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:26</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:20</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:18</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:42</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml">
+      <publishTime>04/22/2019 00:57:44</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/LICENSE.md">
+      <publishTime>04/22/2019 00:53:56</publishTime>
+    </File>
+    <File Include="packages/Newtonsoft.Json.12.0.2/Newtonsoft.Json.12.0.2.nupkg">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="packages/WebGrease.1.6.0/.signature.p7s">
+      <publishTime>12/13/2018 13:58:30</publishTime>
+    </File>
+    <File Include="packages/WebGrease.1.6.0/lib/WebGrease.dll">
+      <publishTime>01/23/2014 13:57:34</publishTime>
+    </File>
+    <File Include="packages/WebGrease.1.6.0/tools/WG.EXE">
+      <publishTime>01/23/2014 13:57:34</publishTime>
+    </File>
+    <File Include="packages/WebGrease.1.6.0/WebGrease.1.6.0.nupkg">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="PedidosConsultas.aspx">
+      <publishTime>03/08/2024 15:28:02</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>07/26/2024 20:26:30</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.js">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.js">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.map">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.js">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.js">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.map">
+      <publishTime>07/26/2024 19:36:46</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>07/26/2024 19:36:48</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>07/26/2024 19:36:42</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="styles.css">
+      <publishTime>04/08/2024 20:16:36</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>07/26/2024 19:36:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/07/2024 11:31:17</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>03/08/2024 15:37:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

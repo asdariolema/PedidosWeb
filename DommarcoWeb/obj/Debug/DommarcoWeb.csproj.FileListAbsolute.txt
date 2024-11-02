@@ -1,0 +1,1161 @@
+C:\Users\Dario\source\repos\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Dario\source\repos\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dario\source\repos\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dario\source\repos\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dario\source\repos\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dario\source\repos\DommarcoWeb\obj\Debug\DommarcoWeb.csprojAssemblyReference.cache
+C:\Users\Dario\source\repos\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dario\source\repos\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CopyComplete
+C:\Users\Dario\source\repos\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Dario\source\repos\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\source\repos\DommarcoWeb\bin\DAL.dll
+C:\Users\Dario\source\repos\DommarcoWeb\bin\DAL.pdb
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\DAL.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\DAL.pdb
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csprojAssemblyReference.cache
+C:\Users\Servidor\Documents\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CopyComplete
+C:\Users\Servidor\Documents\Web\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Servidor\Documents\Web\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\DAL.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\DAL.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csprojAssemblyReference.cache
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CopyComplete
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Dario\Desktop\paginaDommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\DAL.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\DAL.pdb
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CopyComplete
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.AssemblyReference.cache
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.ResolveComReference.cache
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\DAL.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\EnvDTE.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\stdole.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.MSXML.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\DAL.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CopyComplete
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.Shared.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dario\Desktop\paginaDommarco\Page\Web\DommarcoWeb\bin\CrystalDecisions.Web.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\EnvDTE.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\stdole.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\Microsoft.MSXML.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.AssemblyReference.cache
+C:\Users\Servidor\Desktop\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.ResolveComReference.cache
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\DAL.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\EnvDTE.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\DAL.pdb
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.AssemblyReference.cache
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.ResolveComReference.cache
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\obj\Debug\Dommarco.52F901FE.Up2Date
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Dario\Documents\Sistemas\Dommarco\Web\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DAL.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\EnvDTE.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DAL.pdb
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.AssemblyReference.cache
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.ResolveComReference.cache
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\Dommarco.52F901FE.Up2Date
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Dario\Documents\Sistemas\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DAL.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\EnvDTE.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\DAL.pdb
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.AssemblyReference.cache
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.ResolveComReference.cache
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\Dommarco.52F901FE.Up2Date
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Dario\Documents\Sistemas NO usar\DommarcoWeb\DommarcoWeb\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\DommarcoWeb.dll.config
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\DommarcoWeb.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\DommarcoWeb.pdb
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\csc.exe
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\csc.exe.config
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\csc.rsp
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\csi.exe
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\csi.exe.config
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\csi.rsp
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Console.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\vbc.exe
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\vbc.rsp
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\DAL.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\System.Web.Optimization.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\WebGrease.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\EnvDTE.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\DAL.pdb
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\System.Web.Optimization.xml
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.AssemblyReference.cache
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.ResolveComReference.cache
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\obj\Debug\DommarcoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\obj\Debug\Dommarco.52F901FE.Up2Date
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\obj\Debug\DommarcoWeb.dll
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\obj\Debug\DommarcoWeb.pdb
+C:\Users\Dario\source\repos\PedidosWeb\DommarcoWeb\bin\stdole.dll
