@@ -8,18 +8,22 @@
     <div class="container" style="width: 100%; max-width: inherit; padding: 20px;">
    
         <!-- Contenedor para la fecha y logo -->
-        <div class="form-inline header-container">
-            <asp:TextBox ID="txtTipoDocumento" runat="server" CssClass="text-left text-blue-bold" style="width:150px;" />
-            <label for="txtFechaPedido">Fecha:</label>
-            <asp:TextBox ID="txtFechaPedido" runat="server" CssClass="form-control" placeholder="Seleccione una fecha" style="width: 100px;" />
-            <img src="images/logo-dommarco.png" alt="Dommarco S.R.L Logo" class="header-logo" />
-        </div>
+      <div class="form-inline header-container justify-content-between">
+    <!-- Campo Tipo Documento alineado a la izquierda -->
+    <asp:TextBox ID="txtTipoDocumento" runat="server" CssClass="text-left text-blue-bold" style="width:150px;" />
+
+    <!-- Contenedor para los campos de fecha alineado a la derecha -->
+    <div class="date-container" style="display: flex; align-items: center;">
+        <label for="txtFechaPedido" class="mr-2">Fecha:</label>
+        <asp:TextBox ID="txtFechaPedido" runat="server" CssClass="form-control" placeholder="Seleccione una fecha" style="width: 110px;" />
+    </div>
+</div>
 
         <!-- Campo oculto para almacenar el ID del cliente seleccionado -->
         <asp:HiddenField ID="hfSelectedClientID" runat="server" />
 
         <!-- Detalles del cliente -->
-        <asp:UpdatePanel ID="UpdatePanelCliente" runat="server">
+      <%--  <asp:UpdatePanel ID="UpdatePanelCliente" runat="server">
             <ContentTemplate>
                 <div class="panel panel-custom">
                     <div class="form-inline">
@@ -49,7 +53,41 @@
                     </div>
                 </div>
             </ContentTemplate>
-        </asp:UpdatePanel>
+        </asp:UpdatePanel>--%>
+
+        <asp:UpdatePanel ID="UpdatePanelCliente" runat="server">
+    <ContentTemplate>
+        <div class="panel panel-custom">
+            <div class="form-inline">
+                <div class="form-group">
+                    <label for="txtCodCliente" class="control-label">Código:</label>
+                    <asp:TextBox ID="txtCodCliente" runat="server" CssClass="form-control" MaxLength="10" AutoPostBack="true" OnTextChanged="txtCodCliente_TextChanged" onkeypress="return validateNumericInput(event)" style="width: 80px;" />
+                </div>
+                <div class="form-group">
+                    <label for="txtRazonSocial" class="control-label">Razón Social:</label>
+                    <asp:TextBox ID="txtRazonSocial" runat="server" CssClass="form-control" MaxLength="200" style="width: 180px;" />
+                </div>
+                <div class="form-group">
+                    <label for="txtDireccion" class="control-label">Dirección:</label>
+                    <asp:TextBox ID="txtDireccion" runat="server" CssClass="form-control" MaxLength="200" style="width: 180px;" />
+                </div>
+                <div class="form-group">
+                    <label for="txtCUIT" class="control-label">CUIT:</label>
+                    <asp:TextBox ID="txtCUIT" runat="server" CssClass="form-control" style="width: 120px;" />
+                </div>
+                <div class="form-group">
+                    <label for="ddlEstado" class="control-label">Estado:</label>
+                    <asp:DropDownList ID="ddlEstado" runat="server" CssClass="form-control" style="width: 150px;" />
+                </div>
+                <!-- Contenedor para alinear el botón a la derecha -->
+                <div class="form-group ml-auto">
+                    <asp:Button ID="btnBuscarCliente" runat="server" Text="Buscar" CssClass="btn btn-primary" OnClick="btnBuscarCliente_Click" UseSubmitBehavior="false" style="width: 70px; height: 35px;" />
+                </div>
+            </div>
+        </div>
+    </ContentTemplate>
+</asp:UpdatePanel>
+
 
         <!-- Modal para búsqueda de clientes -->
         <div class="modal fade" id="clientesModal" tabindex="-1" role="dialog" aria-labelledby="clienteModalLabel">
@@ -104,7 +142,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="form-group row">
+                   <%--     <div class="form-group row">
                             <div class="col-md-4 form-inline">
                                 <label for="precio_unitario" class="control-label">Precio Unitario</label>
                                 <asp:TextBox ID="txtPrecioUnitario" runat="server" AutoPostBack="True" CssClass="form-control" MaxLength="10" onkeydown="calculateTotalOnEnter(event)" OnTextChanged="txtpreciounitario_Changed" />
@@ -117,53 +155,77 @@
                                 <label for="precio_total" class="control-label">Precio Total</label>
                                 <asp:TextBox ID="txtPrecioTotal" runat="server" CssClass="form-control" MaxLength="10" ReadOnly="True" />
                             </div>
-                        </div>
+                        </div>--%>
+
+                        <div class="form-group row justify-content-between">
+    <!-- Campo Precio Unitario -->
+    <div class="col-md-4 form-inline">
+        <label for="precio_unitario" class="control-label">Precio Unitario  :</label>
+        <asp:TextBox ID="txtPrecioUnitario" runat="server" AutoPostBack="True" CssClass="form-control" MaxLength="10" onkeydown="calculateTotalOnEnter(event)" OnTextChanged="txtpreciounitario_Changed" />
+    </div>
+
+    <!-- Campo Unidad -->
+    <div class="col-md-4 form-inline">
+        <label for="ddlunidad" class="control-label">Unidad  :</label>
+        <asp:DropDownList ID="ddlunidad" runat="server" CssClass="form-control" style="width: 100px;" />
+    </div>
+
+    <!-- Campo Precio Total alineado a la derecha -->
+    <div class="col-md-4 form-inline justify-content-end">
+        <label for="precio_total" class="control-label">Precio Total  :</label>
+        <asp:TextBox ID="txtPrecioTotal" runat="server" CssClass="form-control" MaxLength="10" ReadOnly="True" />
+    </div>
+</div>
+
                     </div>
                 </ContentTemplate>
             </asp:UpdatePanel>
         </div>
 
         <!-- Grilla de artículos -->
-        <asp:UpdatePanel ID="UpdatePanel2" runat="server">
-            <ContentTemplate>
-                <div class="scrollable-gridview">
-                    <asp:GridView ID="gvArticulos" runat="server" CssClass="table table-hover table-bordered" AutoGenerateColumns="False" AllowPaging="True" PageSize="4" OnPageIndexChanging="gvArticulos_PageIndexChanging" OnRowCommand="gvArticulos_RowCommand">
-                        <Columns>
-                            <asp:BoundField DataField="Cantidad" HeaderText="Cantidad" />
-                            <asp:BoundField DataField="Descripcion" HeaderText="Descripción" />
-                            <asp:BoundField DataField="Detalle" HeaderText="Detalle" />
-                            <asp:BoundField DataField="Unidad" HeaderText="Unidad" />
-                            <asp:BoundField DataField="Tasa" HeaderText="Tasa" />
-                            <asp:BoundField DataField="PrecioUnitario" HeaderText="Precio Unitario" />
-                            <asp:BoundField DataField="PrecioTotal" HeaderText="Precio Total" />
-                            <asp:TemplateField>
-                                <ItemTemplate>
-                                    <asp:Button ID="btnBorrar" runat="server" Text="Borrar" CssClass="btn btn-danger btn-sm" CommandName="DeleteRow" CommandArgument='<%# Container.DataItemIndex %>' />
-                                </ItemTemplate>
-                            </asp:TemplateField>
-                        </Columns>
-                    </asp:GridView>
-                </div>
-            </ContentTemplate>
-        </asp:UpdatePanel>
+     <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+    <ContentTemplate>
+        <div class="scrollable-gridview">
+            <asp:GridView ID="gvArticulos" runat="server" CssClass="table table-hover table-bordered" AutoGenerateColumns="False" AllowPaging="True" PageSize="4" OnPageIndexChanging="gvArticulos_PageIndexChanging" OnRowCommand="gvArticulos_RowCommand">
+                <Columns>
+                    <asp:BoundField DataField="Cantidad" HeaderText="Cantidad" />
+                    <asp:BoundField DataField="Descripcion" HeaderText="Descripción" />
+                    <asp:BoundField DataField="Detalle" HeaderText="Detalle" />
+                    <asp:BoundField DataField="Unidad" HeaderText="Unidad" />
+                    <asp:BoundField DataField="Tasa" HeaderText="Tasa" />
+                    <asp:BoundField DataField="PrecioUnitario" HeaderText="Precio Unitario" />
+                    <asp:BoundField DataField="PrecioTotal" HeaderText="Precio Total" />
+                    <asp:TemplateField>
+                        <ItemTemplate>
+                            <!-- Botón "Borrar" alineado a la derecha -->
+                            <div style="text-align: right;">
+                                <asp:Button ID="btnBorrar" runat="server" Text="Borrar" CssClass="btn btn-danger btn-sm" CommandName="DeleteRow" CommandArgument='<%# Container.DataItemIndex %>' />
+                            </div>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+                </Columns>
+            </asp:GridView>
+        </div>
+    </ContentTemplate>
+</asp:UpdatePanel>
 
         <!-- Footer GridView y botón Aceptar -->
-        <asp:UpdatePanel ID="UpdatePanelSumas" runat="server">
-            <ContentTemplate>
-                <div class="footer-sumas">
-                    <asp:GridView ID="gvSumas" runat="server" CssClass="table table-bordered table-striped" AutoGenerateColumns="False" ShowHeader="True" GridLines="None">
-                        <Columns>
-                            <asp:BoundField HeaderText="CANTIDADES" DataField="CantidadTotal" />
-                            <asp:BoundField HeaderText="SUBTOTAL" DataField="Subtotal" />
-                         <%--   <asp:BoundField HeaderText="IMPUESTOS" DataField="Impuestos" />--%>
-                            <asp:BoundField HeaderText="TOTAL" DataField="Total" />
-                        </Columns>
-                    </asp:GridView>
-                    <div class="text-right" style="margin-top: 15px;">
-                        <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" CssClass="btn btn-success" OnClick="btnAceptar_Click" style="width: 150px;" OnClientClick="return validarConfirmapedido();" />
-                    </div>
-                </div>
-            </ContentTemplate>
-        </asp:UpdatePanel>
+       <asp:UpdatePanel ID="UpdatePanelSumas" runat="server">
+    <ContentTemplate>
+        <div class="footer-sumas">
+            <asp:GridView ID="gvSumas" runat="server" CssClass="table table-bordered table-striped text-right" AutoGenerateColumns="False" ShowHeader="True" GridLines="None">
+                <Columns>
+                    <asp:BoundField HeaderText="CANTIDADES" DataField="CantidadTotal" ItemStyle-HorizontalAlign="Right" />
+                    <asp:BoundField HeaderText="SUBTOTAL" DataField="Subtotal" ItemStyle-HorizontalAlign="Right" />
+                    <asp:BoundField HeaderText="TOTAL" DataField="Total" ItemStyle-HorizontalAlign="Right" />
+                </Columns>
+            </asp:GridView>
+            <div class="text-right" style="margin-top: 15px;">
+                <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" CssClass="btn btn-success" OnClick="btnAceptar_Click" style="width: 150px;" OnClientClick="return validarConfirmapedido();" />
+            </div>
+        </div>
+    </ContentTemplate>
+</asp:UpdatePanel>
+
     </div>
 </asp:Content>
