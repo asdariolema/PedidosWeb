@@ -1,10 +1,81 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AltaPedidos.aspx.cs" Inherits="DommarcoWeb.AltaPedidos" MasterPageFile="~/Site.master" %>
 
+
+
+
+
+
 <asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
     Alta de Pedidos
 </asp:Content>
 
+
+
+
+
+
+
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+
+    <script type="text/javascript">
+    function validarCampos() {
+        var cantidad = document.getElementById('<%= txtCantidad.ClientID %>').value;
+        var precioUnitario = document.getElementById('<%= txtPrecioUnitario.ClientID %>').value;
+        var descripcion = document.getElementById('<%= txtDescripcion.ClientID %>').value;
+
+        if (!cantidad || !precioUnitario || !descripcion) {
+            alert("Por favor, complete todos los campos obligatorios: Cantidad, Precio Unitario y Descripción.");
+            return false;
+        }
+        return true;
+    }
+  
+
+
+
+   
+    function validarConfirmarPedido() {
+        // Obtén los valores de los campos de Código de Cliente y Nombre del Cliente
+        var codigoCliente = document.getElementById('<%= txtCodCliente.ClientID %>').value;
+        var nombreCliente = document.getElementById('<%= txtRazonSocial.ClientID %>').value;
+
+        // Obtén la grilla de artículos
+        var grillaArticulos = document.getElementById('<%= gvArticulos.ClientID %>');
+
+        // Verifica si el Código de Cliente o Nombre del Cliente están vacíos
+        if (!codigoCliente || !nombreCliente) {
+            alert("Por favor, complete los campos obligatorios: Código de Cliente y Nombre del Cliente.");
+            return false;
+        }
+
+        // Verifica si la grilla de artículos tiene al menos una fila de datos (excluyendo el encabezado)
+        if (grillaArticulos.rows.length <= 1) {
+            alert("Debe agregar al menos un artículo en la grilla de artículos.");
+            return false;
+        }
+
+        return true; // Si pasa todas las validaciones, permite la confirmación del pedido
+    }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <div class="container" style="width: 100%; max-width: inherit; padding: 20px;">
    
         <!-- Contenedor para la fecha y logo -->
@@ -221,7 +292,7 @@
                 </Columns>
             </asp:GridView>
             <div class="text-right" style="margin-top: 15px;">
-                <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" CssClass="btn btn-success" OnClick="btnAceptar_Click" style="width: 150px;" OnClientClick="return validarConfirmapedido();" />
+                <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" CssClass="btn btn-success" OnClick="btnAceptar_Click" style="width: 150px;" OnClientClick="return validarConfirmarPedido();" />
             </div>
         </div>
     </ContentTemplate>
