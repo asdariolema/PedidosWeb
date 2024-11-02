@@ -122,32 +122,34 @@
         <asp:UpdatePanel ID="UpdatePanelCliente" runat="server">
     <ContentTemplate>
         <div class="panel panel-custom">
-            <div class="form-inline">
-                <div class="form-group">
-                    <label for="txtCodCliente" class="control-label">Código:</label>
-                    <asp:TextBox ID="txtCodCliente" runat="server" CssClass="form-control" MaxLength="10" AutoPostBack="true" OnTextChanged="txtCodCliente_TextChanged" onkeypress="return validateNumericInput(event)" style="width: 80px;" />
-                </div>
-                <div class="form-group">
-                    <label for="txtRazonSocial" class="control-label">Razón Social:</label>
-                    <asp:TextBox ID="txtRazonSocial" runat="server" CssClass="form-control" MaxLength="200" style="width: 180px;" />
-                </div>
-                <div class="form-group">
-                    <label for="txtDireccion" class="control-label">Dirección:</label>
-                    <asp:TextBox ID="txtDireccion" runat="server" CssClass="form-control" MaxLength="200" style="width: 180px;" />
-                </div>
-                <div class="form-group">
-                    <label for="txtCUIT" class="control-label">CUIT:</label>
-                    <asp:TextBox ID="txtCUIT" runat="server" CssClass="form-control" style="width: 120px;" />
-                </div>
-                <div class="form-group">
-                    <label for="ddlEstado" class="control-label">Estado:</label>
-                    <asp:DropDownList ID="ddlEstado" runat="server" CssClass="form-control" style="width: 150px;" />
-                </div>
-                <!-- Contenedor para alinear el botón a la derecha -->
-                <div class="form-group ml-auto">
-                    <asp:Button ID="btnBuscarCliente" runat="server" Text="Buscar" CssClass="btn btn-primary" OnClick="btnBuscarCliente_Click" UseSubmitBehavior="false" style="width: 70px; height: 35px;" />
-                </div>
-            </div>
+<div class="form-inline">
+    <div class="form-group" style="margin-right: 15px;">
+        <label for="txtCodCliente" class="control-label">Código</label>
+        <asp:TextBox ID="txtCodCliente" runat="server" CssClass="form-control" MaxLength="10" AutoPostBack="true" OnTextChanged="txtCodCliente_TextChanged" onkeypress="return validateNumericInput(event)" style="width: 80px;" />
+    </div>
+    <div class="form-group" style="margin-right: 15px;">
+        <label for="txtRazonSocial" class="control-label">Razón Social</label>
+           <asp:TextBox ID="txtRazonSocial" runat="server" CssClass="form-control" MaxLength="200" style="width: 220px; font-weight: bold; color: blue;" />
+    </div>
+    <div class="form-group" style="margin-right: 15px;">
+        <label for="txtDireccion" class="control-label">Dirección</label>
+        <asp:TextBox ID="txtDireccion" runat="server" CssClass="form-control" MaxLength="200" style="width: 220px; font-weight: bold; color: blue;" />
+    </div>
+    <div class="form-group" style="margin-right: 15px;">
+        <label for="txtCUIT" class="control-label">CUIT</label>
+        <asp:TextBox ID="txtCUIT" runat="server" CssClass="form-control" style="width: 130px;" />
+    </div>
+    <div class="form-group" style="margin-right: 15px;">
+        <label for="ddlEstado" class="control-label">Estado</label>
+        <asp:DropDownList ID="ddlEstado" runat="server" CssClass="form-control" style="width: 150px;" />
+    </div>
+    <!-- Contenedor para alinear el botón a la derecha -->
+    <div class="form-group ml-auto">
+        <asp:Button ID="btnBuscarCliente" runat="server" Text="Buscar" CssClass="btn btn-primary" OnClick="btnBuscarCliente_Click" UseSubmitBehavior="false" style="width: 70px; height: 35px;" />
+    </div>
+</div>
+
+
         </div>
     </ContentTemplate>
 </asp:UpdatePanel>
