@@ -3,16 +3,9 @@
 
 
 
-
-
 <asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
     Alta de Pedidos
 </asp:Content>
-
-
-
-
-
 
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
@@ -160,34 +153,36 @@
 </asp:UpdatePanel>
 
 
-        <!-- Modal para búsqueda de clientes -->
-        <div class="modal fade" id="clientesModal" tabindex="-1" role="dialog" aria-labelledby="clienteModalLabel">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="clienteModalLabel">Buscar Cliente</h4>
-                    </div>
-                    <div class="modal-body">
-                        <input type="text" id="txtBuscarRazonSocial" runat="server" class="form-control" placeholder="Razón Social" />
-                        <asp:Button ID="btnFiltrarClientes" runat="server" Text="Filtrar" CssClass="btn btn-default btn-block" OnClick="btnFiltrarClientes_Click" OnClientClick="return validateSearchInput();" style="margin-top: 10px;" />
-                        <asp:GridView ID="gvClientes" runat="server" CssClass="table table-hover" AutoGenerateColumns="False" OnRowCommand="gvClientes_RowCommand">
-                            <Columns>
-                                <asp:BoundField DataField="nu_cli_codigo" HeaderText="Código Cliente" />
-                                <asp:BoundField DataField="DS_CLI_RAZON_SOCIAL" HeaderText="Razón Social" />
-                                <asp:BoundField DataField="ds_cli_direccion" HeaderText="Dirección" />
-                                <asp:BoundField DataField="ds_cli_cuit" HeaderText="CUIT" />
-                                <asp:TemplateField>
-                                    <ItemTemplate>
-                                        <asp:Button ID="btnSeleccionar" runat="server" CommandName="Select" CommandArgument='<%# Container.DataItemIndex %>' Text="Seleccionar" CssClass="btn btn-primary btn-sm" />
-                                    </ItemTemplate>
-                                </asp:TemplateField>
-                            </Columns>
-                        </asp:GridView>
-                    </div>
-                </div>
+  <div class="modal fade" id="clientesModal" tabindex="-1" role="dialog" aria-labelledby="clienteModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title" id="clienteModalLabel">Buscar Cliente</h4>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="txtBuscarRazonSocial" runat="server" class="form-control" placeholder="Razón Social" />
+                <asp:Button ID="btnFiltrarClientes" runat="server" Text="Filtrar" CssClass="btn btn-default btn-block" OnClick="btnFiltrarClientes_Click" OnClientClick="return validateSearchInput();" style="margin-top: 10px;" />
+                <asp:GridView ID="gvClientes" runat="server" CssClass="table table-hover" AutoGenerateColumns="False" OnRowCommand="gvClientes_RowCommand">
+                    <Columns>
+                        <asp:BoundField DataField="nu_cli_codigo" HeaderText="Código Cliente" />
+                        <asp:BoundField DataField="DS_CLI_RAZON_SOCIAL" HeaderText="Razón Social" />
+                        <asp:BoundField DataField="ds_cli_direccion" HeaderText="Dirección" />
+                        <asp:BoundField DataField="ds_cli_cuit" HeaderText="CUIT" />
+                        <asp:TemplateField>
+                            <ItemTemplate>
+                                <asp:Button ID="btnSeleccionar" runat="server" CommandName="Select" CommandArgument='<%# Container.DataItemIndex %>' Text="Seleccionar" CssClass="btn btn-primary btn-sm" />
+                            </ItemTemplate>
+                        </asp:TemplateField>
+                    </Columns>
+                </asp:GridView>
             </div>
         </div>
+    </div>
+</div>
+
 
         <!-- Formulario para agregar artículos -->
         <div class="panel panel-custom">
