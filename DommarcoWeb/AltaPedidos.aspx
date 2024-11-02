@@ -152,8 +152,7 @@
     </ContentTemplate>
 </asp:UpdatePanel>
 
-
-  <div class="modal fade" id="clientesModal" tabindex="-1" role="dialog" aria-labelledby="clienteModalLabel">
+<div class="modal fade" id="clientesModal" tabindex="-1" role="dialog" aria-labelledby="clienteModalLabel">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -162,26 +161,42 @@
                 </button>
                 <h4 class="modal-title" id="clienteModalLabel">Buscar Cliente</h4>
             </div>
-            <div class="modal-body">
-                <input type="text" id="txtBuscarRazonSocial" runat="server" class="form-control" placeholder="Razón Social" />
-                <asp:Button ID="btnFiltrarClientes" runat="server" Text="Filtrar" CssClass="btn btn-default btn-block" OnClick="btnFiltrarClientes_Click" OnClientClick="return validateSearchInput();" style="margin-top: 10px;" />
-                <asp:GridView ID="gvClientes" runat="server" CssClass="table table-hover" AutoGenerateColumns="False" OnRowCommand="gvClientes_RowCommand">
-                    <Columns>
-                        <asp:BoundField DataField="nu_cli_codigo" HeaderText="Código Cliente" />
-                        <asp:BoundField DataField="DS_CLI_RAZON_SOCIAL" HeaderText="Razón Social" />
-                        <asp:BoundField DataField="ds_cli_direccion" HeaderText="Dirección" />
-                        <asp:BoundField DataField="ds_cli_cuit" HeaderText="CUIT" />
-                        <asp:TemplateField>
-                            <ItemTemplate>
-                                <asp:Button ID="btnSeleccionar" runat="server" CommandName="Select" CommandArgument='<%# Container.DataItemIndex %>' Text="Seleccionar" CssClass="btn btn-primary btn-sm" />
-                            </ItemTemplate>
-                        </asp:TemplateField>
-                    </Columns>
-                </asp:GridView>
-            </div>
+            <asp:UpdatePanel ID="UpdatePanelClientes" runat="server" UpdateMode="Conditional">
+                <ContentTemplate>
+                    <div class="modal-body">
+                        <asp:TextBox ID="txtBuscarRazonSocial" runat="server" CssClass="form-control" Placeholder="Razón Social" />
+                        
+                        <!-- Cambiado el texto y el estilo del botón -->
+                        <asp:Button ID="btnFiltrarClientes" runat="server" Text="Buscar Cliente" CssClass="btn btn-primary btn-block mt-2" 
+                                    OnClick="btnFiltrarClientes_Click" UseSubmitBehavior="false" />
+                        
+                        <asp:GridView ID="gvClientes" runat="server" CssClass="table table-hover" AutoGenerateColumns="False" 
+                                      OnRowCommand="gvClientes_RowCommand">
+                            <Columns>
+                                <asp:BoundField DataField="nu_cli_codigo" HeaderText="Código Cliente" />
+                                <asp:BoundField DataField="DS_CLI_RAZON_SOCIAL" HeaderText="Razón Social" />
+                                <asp:BoundField DataField="ds_cli_direccion" HeaderText="Dirección" />
+                                <asp:BoundField DataField="ds_cli_cuit" HeaderText="CUIT" />
+                                <asp:TemplateField>
+                                    <ItemTemplate>
+                                        <asp:Button ID="btnSeleccionar" runat="server" CommandName="Select" 
+                                                    CommandArgument='<%# Container.DataItemIndex %>' Text="Seleccionar" 
+                                                    CssClass="btn btn-primary btn-sm" UseSubmitBehavior="false" />
+                                    </ItemTemplate>
+                                </asp:TemplateField>
+                            </Columns>
+                        </asp:GridView>
+                    </div>
+                </ContentTemplate>
+                <Triggers>
+                    <asp:AsyncPostBackTrigger ControlID="btnFiltrarClientes" EventName="Click" />
+                </Triggers>
+            </asp:UpdatePanel>
         </div>
     </div>
 </div>
+
+
 
 
         <!-- Formulario para agregar artículos -->

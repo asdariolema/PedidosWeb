@@ -105,13 +105,22 @@ namespace DommarcoWeb
         protected global::System.Web.UI.WebControls.Button btnBuscarCliente;
 
         /// <summary>
+        /// Control UpdatePanelClientes.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.UpdatePanel UpdatePanelClientes;
+
+        /// <summary>
         /// Control txtBuscarRazonSocial.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtBuscarRazonSocial;
+        protected global::System.Web.UI.WebControls.TextBox txtBuscarRazonSocial;
 
         /// <summary>
         /// Control btnFiltrarClientes.
