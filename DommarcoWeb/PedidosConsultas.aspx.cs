@@ -189,10 +189,12 @@ namespace DommarcoWeb
                 int index = Convert.ToInt32(e.CommandArgument);
                 // Obtén el ID del pedido o cualquier otra información necesaria de la fila
                 GridViewRow selectedRow = gvResultados.Rows[index];
-                string pedidoID = selectedRow.Cells[0].Text; // Asumiendo que el ID del pedido está en la primera celda
 
+
+                string pedidoID =  selectedRow.Cells[0].Text; // Asumiendo que el ID del pedido está en la primera celda
+               string valorid= DAL.SQL.Encrypt(pedidoID, "mlmweb");
                 // Redirige a la página de detalles
-                Response.Redirect($"AltaPedidos.aspx?id={pedidoID}");
+                Response.Redirect($"AltaPedidos.aspx?id={valorid}");
             }
             //else if (e.CommandName == "Editar")
             //{

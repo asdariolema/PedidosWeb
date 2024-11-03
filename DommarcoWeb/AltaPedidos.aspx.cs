@@ -1,5 +1,6 @@
 ﻿
 using DAL;
+using DAL.BDL;
 using System;
 using System.Data;
 using System.Drawing;
@@ -24,14 +25,14 @@ namespace DommarcoWeb
             {
 
                 string parametroId = Request.QueryString["id"];
-                int id;
-                if (!string.IsNullOrEmpty(parametroId) && int.TryParse(parametroId, out id) && id > 0)
+                
+                if (!string.IsNullOrEmpty(parametroId) )
                 {
                     // Si el ID es válido y mayor que cero, procedemos con la edición
-                    ViewState["parametro"] = id;
+                    ViewState["parametro"] = DAL.SQL.Decrypt(parametroId, "mlmweb"); 
                     ViewState["tipo"] = "EDICION";
-                    txtTipoDocumento.Text = "EDICIÓN NRO: " + id;
-                    editar(id.ToString());
+                    txtTipoDocumento.Text = "EDICIÓN NRO: " + ViewState["parametro"];
+                    editar(ViewState["parametro"].ToString());
                 }
                 else
                 {
