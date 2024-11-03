@@ -47,6 +47,20 @@
             return false;
         }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         return true; // Si pasa todas las validaciones, permite la confirmación del pedido
     }
     </script>
@@ -86,38 +100,7 @@
         <!-- Campo oculto para almacenar el ID del cliente seleccionado -->
         <asp:HiddenField ID="hfSelectedClientID" runat="server" />
 
-        <!-- Detalles del cliente -->
-      <%--  <asp:UpdatePanel ID="UpdatePanelCliente" runat="server">
-            <ContentTemplate>
-                <div class="panel panel-custom">
-                    <div class="form-inline">
-                        <div class="form-group">
-                            <label for="txtCodCliente" class="control-label">Código:</label>
-                            <asp:TextBox ID="txtCodCliente" runat="server" CssClass="form-control" MaxLength="10" AutoPostBack="true" OnTextChanged="txtCodCliente_TextChanged" onkeypress="return validateNumericInput(event)" style="width: 80px;" />
-                        </div>
-                        <div class="form-group">
-                            <label for="txtRazonSocial" class="control-label">Razón Social:</label>
-                            <asp:TextBox ID="txtRazonSocial" runat="server" CssClass="form-control" MaxLength="200" style="width: 180px;" />
-                        </div>
-                        <div class="form-group">
-                            <label for="txtDireccion" class="control-label">Dirección:</label>
-                            <asp:TextBox ID="txtDireccion" runat="server" CssClass="form-control" MaxLength="200" style="width: 180px;" />
-                        </div>
-                        <div class="form-group">
-                            <label for="txtCUIT" class="control-label">CUIT:</label>
-                            <asp:TextBox ID="txtCUIT" runat="server" CssClass="form-control" style="width: 120px;" />
-                        </div>
-                        <div class="form-group">
-                            <label for="ddlEstado" class="control-label">Estado:</label>
-                            <asp:DropDownList ID="ddlEstado" runat="server" CssClass="form-control" style="width: 150px;" />
-                        </div>
-                        <div class="form-group">
-                            <asp:Button ID="btnBuscarCliente" runat="server" Text="Buscar" CssClass="btn btn-primary" OnClick="btnBuscarCliente_Click" UseSubmitBehavior="false" style="width: 70px; height: 35px;" />
-                        </div>
-                    </div>
-                </div>
-            </ContentTemplate>
-        </asp:UpdatePanel>--%>
+ 
 
         <asp:UpdatePanel ID="UpdatePanelCliente" runat="server">
     <ContentTemplate>
@@ -225,26 +208,13 @@
                                 </div>
                             </div>
                         </div>
-                   <%--     <div class="form-group row">
-                            <div class="col-md-4 form-inline">
-                                <label for="precio_unitario" class="control-label">Precio Unitario</label>
-                                <asp:TextBox ID="txtPrecioUnitario" runat="server" AutoPostBack="True" CssClass="form-control" MaxLength="10" onkeydown="calculateTotalOnEnter(event)" OnTextChanged="txtpreciounitario_Changed" />
-                            </div>
-                            <div class="col-md-4 form-inline">
-                                <label for="ddlunidad" class="control-label">Unidad</label>
-                                <asp:DropDownList ID="ddlunidad" runat="server" CssClass="form-control" style="width: 100px;" />
-                            </div>
-                            <div class="col-md-4 form-inline">
-                                <label for="precio_total" class="control-label">Precio Total</label>
-                                <asp:TextBox ID="txtPrecioTotal" runat="server" CssClass="form-control" MaxLength="10" ReadOnly="True" />
-                            </div>
-                        </div>--%>
+           
 
                         <div class="form-group row justify-content-between">
     <!-- Campo Precio Unitario -->
     <div class="col-md-4 form-inline">
         <label for="precio_unitario" class="control-label">Precio Unitario  :</label>
-        <asp:TextBox ID="txtPrecioUnitario" runat="server" AutoPostBack="True" CssClass="form-control" MaxLength="10" onkeydown="calculateTotalOnEnter(event)" OnTextChanged="txtpreciounitario_Changed" />
+        <asp:TextBox ID="txtPrecioUnitario" runat="server" AutoPostBack="True" CssClass="form-control" MaxLength="10"  OnTextChanged="txtpreciounitario_Changed" />
     </div>
 
     <!-- Campo Unidad -->

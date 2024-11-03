@@ -17,7 +17,7 @@
     <style>
         /* Navbar compacta y siempre visible */
         .navbar-compact {
-            width: 120px; /* Reducida un 30% en comparación con el tamaño anterior */
+            width: 120px;
             position: fixed;
             top: 10px;
             right: 10px;
@@ -28,37 +28,32 @@
             border-radius: 8px;
         }
 
-        /* Menú y submenú visibles */
-        .navbar-compact .dropdown-menu,
-        .navbar-compact .dropdown-submenu .dropdown-menu {
-            display: block !important;
-            position: static;
-            background: rgba(0, 0, 0, 0.8);
+        /* Estilos para los enlaces del menú */
+        .dropdown-menu {
+            background-color: #333; /* Fondo oscuro */
         }
 
-        /* Estilos para los enlaces del menú */
-        .navbar-compact .dropdown-item {
-            color: white;
+        .dropdown-item {
+            color: #fff; /* Texto en blanco */
             padding: 8px 12px;
             font-size: 14px;
         }
 
-        .navbar-compact .dropdown-item:hover {
-            background-color: rgba(255, 255, 255, 0.2);
-            color: white;
+        .dropdown-item:hover {
+            background-color: rgba(255, 255, 255, 0.2); /* Fondo en hover */
         }
 
-        /* Margen a la derecha para submenús */
-        .dropdown-submenu .dropdown-menu .dropdown-item {
-            padding-left: 20px;
-        }
-        
         /* Estilo para el título de sección */
         .menu-section-title {
             color: #ffffff;
             font-weight: bold;
             margin: 10px 0;
             padding-left: 8px;
+        }
+
+        /* Ocultar el menú principal y submenús inicialmente */
+        .menu-dropdown {
+            display: none;
         }
     </style>
 </head>
@@ -70,31 +65,23 @@
             </Scripts>
         </asp:ScriptManager>
 
-        <!-- Navbar compacta con submenú visible siempre -->
+        <!-- Navbar compacta -->
         <div class="navbar-compact">
-            <div class="dropdown">
-                <button class="btn btn-primary btn-block" type="button" id="dropdownMenuButton">
-                    <i class="fa fa-bars"></i> Menú
-                </button>
-                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                    <!-- Título Pedidos sin ser un enlace -->
-                    <div class="menu-section-title">Pedidos</div>
-                    <div class="dropdown-submenu">
-                        <div class="dropdown-menu">
-                            <a runat="server" href="AltaPedidos.aspx" class="dropdown-item">Alta</a>
-                            <a runat="server" href="PedidosConsultas.aspx" class="dropdown-item">Consulta</a>
-                        </div>
-                    </div>
+            <button class="btn btn-primary btn-block" type="button" id="dropdownMenuButton">
+                <i class="fa fa-bars"></i> Menú
+            </button>
 
-                    <!-- Nueva entrada Cotización con submenú visible siempre -->
-                    <div class="menu-section-title">Cotización</div>
-                    <div class="dropdown-submenu">
-                        <div class="dropdown-menu">
-                            <a runat="server" href="AltaCotizacion.aspx" class="dropdown-item">Alta</a>
-                            <a runat="server" href="CotizacionConsulta.aspx" class="dropdown-item">Consulta</a>
-                        </div>
-                    </div>
-                </div>
+            <!-- Menú desplegable principal -->
+            <div class="dropdown-menu menu-dropdown" aria-labelledby="dropdownMenuButton">
+                <!-- Título Pedidos -->
+                <div class="menu-section-title">Pedidos</div>
+                <a runat="server" href="AltaPedidos.aspx" class="dropdown-item">Alta</a>
+                <a runat="server" href="PedidosConsultas.aspx" class="dropdown-item">Consulta</a>
+
+                <!-- Título Cotización -->
+                <div class="menu-section-title">Cotización</div>
+                <a runat="server" href="AltaCotizacion.aspx" class="dropdown-item">Alta</a>
+                <a runat="server" href="CotizacionConsulta.aspx" class="dropdown-item">Consulta</a>
             </div>
         </div>
 
@@ -108,5 +95,14 @@
     <!-- jQuery y Bootstrap JS desde CDN -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // Activa o desactiva el menú principal al hacer clic en el botón "Menú"
+            $('#dropdownMenuButton').on('click', function () {
+                $('.menu-dropdown').toggle();
+            });
+        });
+    </script>
 </body>
 </html>
