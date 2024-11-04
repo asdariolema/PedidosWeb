@@ -88,7 +88,7 @@
         <!-- Contenedor para la fecha y logo -->
       <div class="form-inline header-container justify-content-between">
     <!-- Campo Tipo Documento alineado a la izquierda -->
-    <asp:TextBox ID="txtTipoDocumento" runat="server" CssClass="text-left text-blue-bold" style="width:150px;" />
+    <asp:TextBox ID="txtTipoDocumento" runat="server" CssClass="text-left text-blue-bold" style="width:250px;" />
 
     <!-- Contenedor para los campos de fecha alineado a la derecha -->
     <div class="date-container" style="display: flex; align-items: center;">
@@ -235,19 +235,29 @@
             </asp:UpdatePanel>
         </div>
 
-        <!-- Grilla de artículos -->
-     <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+ <!-- Grilla de artículos -->
+<asp:UpdatePanel ID="UpdatePanel2" runat="server">
     <ContentTemplate>
         <div class="scrollable-gridview">
             <asp:GridView ID="gvArticulos" runat="server" CssClass="table table-hover table-bordered" AutoGenerateColumns="False" AllowPaging="True" PageSize="4" OnPageIndexChanging="gvArticulos_PageIndexChanging" OnRowCommand="gvArticulos_RowCommand">
                 <Columns>
                     <asp:BoundField DataField="Cantidad" HeaderText="Cantidad" />
-                    <asp:BoundField DataField="Descripcion" HeaderText="Descripción" />
-                    <asp:BoundField DataField="Detalle" HeaderText="Detalle" />
+                    <asp:BoundField DataField="Descripcion" HeaderText="Descripción">
+                        <ItemStyle Width="400px" />
+                    </asp:BoundField>
+                    <asp:BoundField DataField="Detalle" HeaderText="Detalle">
+                        <ItemStyle Width="300px" />
+                    </asp:BoundField>
                     <asp:BoundField DataField="Unidad" HeaderText="Unidad" />
-                    <asp:BoundField DataField="Tasa" HeaderText="Tasa" />
-                    <asp:BoundField DataField="PrecioUnitario" HeaderText="Precio Unitario" />
-                    <asp:BoundField DataField="PrecioTotal" HeaderText="Precio Total" />
+                    <%-- <asp:BoundField DataField="Tasa" HeaderText="Tasa" /> --%>
+                    <asp:BoundField DataField="PrecioUnitario" HeaderText="Precio Unitario">
+                        <ItemStyle HorizontalAlign="Right" />
+                        <HeaderStyle HorizontalAlign="Right" CssClass="text-right" />
+                    </asp:BoundField>
+                    <asp:BoundField DataField="PrecioTotal" HeaderText="Precio Total">
+                        <ItemStyle HorizontalAlign="Right" />
+                        <HeaderStyle HorizontalAlign="Right" CssClass="text-right" />
+                    </asp:BoundField>
                     <asp:TemplateField>
                         <ItemTemplate>
                             <!-- Botón "Borrar" alineado a la derecha -->
@@ -262,23 +272,38 @@
     </ContentTemplate>
 </asp:UpdatePanel>
 
+
+
+
         <!-- Footer GridView y botón Aceptar -->
-       <asp:UpdatePanel ID="UpdatePanelSumas" runat="server">
+<asp:UpdatePanel ID="UpdatePanelSumas" runat="server">
     <ContentTemplate>
         <div class="footer-sumas">
             <asp:GridView ID="gvSumas" runat="server" CssClass="table table-bordered table-striped text-right" AutoGenerateColumns="False" ShowHeader="True" GridLines="None">
                 <Columns>
                     <asp:BoundField HeaderText="CANTIDADES" DataField="CantidadTotal" ItemStyle-HorizontalAlign="Right" />
                     <asp:BoundField HeaderText="SUBTOTAL" DataField="Subtotal" ItemStyle-HorizontalAlign="Right" />
-                    <asp:BoundField HeaderText="TOTAL" DataField="Total" ItemStyle-HorizontalAlign="Right" />
+                    <asp:BoundField HeaderText="TOTAL" DataField="Total" ItemStyle-HorizontalAlign="Right">
+                        <ItemStyle CssClass="total-column" />
+                    </asp:BoundField>
                 </Columns>
             </asp:GridView>
             <div class="text-right" style="margin-top: 15px;">
-                <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" CssClass="btn btn-success" OnClick="btnAceptar_Click" style="width: 150px;" OnClientClick="return validarConfirmarPedido();" />
+               <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" CssClass="btn btn-primary" OnClick="btnAceptar_Click" style="width: 150px;" OnClientClick="return validarConfirmarPedido();" />
+
             </div>
         </div>
     </ContentTemplate>
 </asp:UpdatePanel>
+
+
+        <style>
+    .total-column {
+        font-weight: bold;
+        color: blue;
+    }
+</style>
+
 
     </div>
 </asp:Content>

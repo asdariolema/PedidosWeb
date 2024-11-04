@@ -13,6 +13,13 @@ namespace DommarcoWeb
         protected void Page_Load(object sender, EventArgs e)
         {
             txtTipoDocumento.Text = "Pedidos Consulta";
+                          
+
+                if (Session["ID_USUARIO"] == null)
+            {
+                // Si no hay usuario en sesión, redirige a la página de login
+                Response.Redirect("Login.aspx");
+            }
 
         }
 

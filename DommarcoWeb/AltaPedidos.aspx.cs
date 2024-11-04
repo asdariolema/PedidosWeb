@@ -18,7 +18,11 @@ namespace DommarcoWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Session["ID_USUARIO"] == null)
+            {
+                // Si no hay usuario en sesión, redirige a la página de login
+                Response.Redirect("Login.aspx");
+            }
 
 
             if (!IsPostBack)
@@ -236,7 +240,7 @@ namespace DommarcoWeb
                 dr["Descripcion"] = row["desc1"];
                 dr["Detalle"] = row["desc2"];
                 dr["Cantidad"] = row["Cant"];
-                //dr["Unidad"] = row["Unid"];
+                dr["Unidad"] = row["medida"];
                 dr["PrecioUnitario"] = row["punit"];
                 dr["PrecioTotal"] = row["PTotal"];
 

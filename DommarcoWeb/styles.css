@@ -163,7 +163,10 @@ h2 {
 
 
 
-
+.total-column {
+    font-weight: bold;
+    color: blue;
+}
 
 
 
